@@ -1,4 +1,4 @@
-<?php /* Template Name: Probate */ ?>
+<?php /* Template Name: ContactUs */ ?>
 <link href="<?php echo get_bloginfo('template_directory'); ?>/blog.css" rel="stylesheet">
 <?php get_header(); ?>
 
